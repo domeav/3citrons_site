@@ -3,7 +3,7 @@ title = "L'atelier"
 +++
 # coucou, c'est *l'atelier des 3 citrons*
 
-L'atelier des 3 citrons est un atelier de gravure associatif
+L'atelier des 3 citrons est un {{< ionicon construct >}} atelier de gravure associatif
 et un collectif d'artistes graveurs. 
 
 Le but ? [Graver ensemble](#on-va-tous-graver) — parce qu'à plusieurs on grave plus loin ;
