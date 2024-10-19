@@ -6,3 +6,4 @@ title = "L'atelier des 3 citrons"
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+

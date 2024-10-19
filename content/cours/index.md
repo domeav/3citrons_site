@@ -1,6 +1,5 @@
 +++
 title = "Cours"
-menus = "main"
 +++
 # À la rentrée, viens graver avec les 3 citrons ! 
 
