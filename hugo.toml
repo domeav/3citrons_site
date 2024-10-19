@@ -1,0 +1,4 @@
+baseURL = 'https://3citrons.art'
+languageCode = 'fr'
+title = "l'atelier des 3 citrons"
+theme = '3citrons'
