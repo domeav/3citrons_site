@@ -2,3 +2,18 @@ baseURL = 'https://3citrons.art'
 languageCode = 'fr'
 title = "l'atelier des 3 citrons"
 theme = '3citrons'
+
+[[menus.main]]
+name = "L'atelier"
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Actus'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Cours'
+pageRef = '/cours'
+weight = 30

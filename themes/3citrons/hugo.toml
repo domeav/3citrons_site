@@ -2,16 +2,6 @@ baseURL = 'https://3citrons.art/'
 languageCode = 'fr_FR'
 title = "L'atelier des 3 citrons"
 
-[[menus.main]]
-name = "L'atelier"
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
-name = 'Actus'
-pageRef = '/posts'
-weight = 20
-
 [module]
   [module.hugoVersion]
     extended = false
