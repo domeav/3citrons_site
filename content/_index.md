@@ -1,8 +1,8 @@
 +++
 title = "L'atelier"
 +++
-# coucou, c'est *l'atelier des 3 citrons*
 
+{{< startsection >}}
 L'atelier des 3 citrons est un {{< ionicon construct >}} [atelier de
 gravure associatif](#infos-pratiques) et un {{< ionicon people >}} collectif d'artistes
 graveurs.
@@ -13,6 +13,9 @@ bonne humeur !
 
 ![](./latelier/cuivre_eauforte_pointes.jpg)
 
+{{< endsection >}}
+
+{{< startsection >}}
 ## On va tous graver !
 
 Les graveurs expérimentés sont les bienvenus à l’atelier des 3 citrons
@@ -31,7 +34,9 @@ aquatintes, perchlorure de fer pour les morsures) et une {{< ionicon flame >}} t
 d’encrage chauffante.
 
 ![](./latelier/encrage_lino3.jpg)
+{{< endsection >}}
 
+{{< startsection >}}
 ## Transmettre
 
  Les artistes du {{< ionicon people >}} collectif proposent [des
@@ -48,7 +53,9 @@ faire découvrir la gravure et les œuvres des artistes du collectif :
 expositions, festivals, rencontres...
 
 ![](./latelier/grattage.jpg)
+{{< endsection >}}
 
+{{< startsection >}}
 ## Infos pratiques
 
 Contactez-nous par [{{< ionicon mail >}}](mailto:atelier@3citrons.art) ou sur
@@ -65,5 +72,5 @@ L’atelier des 3 citrons est installé à Quéven, dans le Morbihan, près de L
 - {{< ionicon car >}} En voiture : N165, sortie Quéven, stationnement possible dans la rue. 
 - {{< ionicon bus >}} En bus : T4 en provenance de Lorient, arrêt Bel Air (ou Ville de Toulouse en marchant un peu).
 - {{< ionicon bicycle >}} À vélo : depuis Lorient, Plœmeur et Pont Scorff, itinéraires sur voies cyclables dédiées, abri vélo disponible sur place.
-
+{{< endsection >}}
 

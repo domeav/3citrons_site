@@ -1,4 +1,8 @@
-<h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-{{ $image := resources.Get "img/logo.png" }}
-<img src="{{ $image.Permalink }}"/>
+<section class="section">
+  <div class="container">
+  <h1 class="title">{{ site.Title }}</h1>
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+  {{ $image := resources.Get "img/logo.png" }}
+  <img src="{{ $image.Permalink }}"/>
+  </div>
+</section>
