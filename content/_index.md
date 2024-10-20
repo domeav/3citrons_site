@@ -1,7 +1,6 @@
 +++
 title = "L'atelier"
 +++
-
 {{< startsection hero >}}
 L'atelier des 3 citrons est un {{< ionicon construct >}} [atelier de
 gravure associatif](#infos-pratiques) et un {{< ionicon people >}} collectif d'artistes
