@@ -2,8 +2,8 @@
 title = "Cours"
 +++
 
-{{< startsection >}}
-# À la rentrée, viens graver avec les 3 citrons ! 
+{{< startsection pink-background >}}
+## À la rentrée, viens graver avec les 3 citrons ! 
 
 En complément des [cours ponctuels](https://www.helloasso.com/associations/l-atelier-des-3-citrons/boutiques/ateliers-et-cours-de-gravure), les artistes de l'atelier des 3 citrons 
 proposent pour l'année 2024/2025 un cours de gravure au trimestre multi-
@@ -20,12 +20,11 @@ créatif.
 
 Tout commence avec une séance découverte ouverte à tous le jeudi 12
 septembre, en présence des artistes.
- 
- 
-![encrage](./cours.jpg)
+
 {{< endsection >}}
  
 {{< startsection >}}
+![encrage](./cours.jpg)
 ## Demandez le programme !
 
 
@@ -45,7 +44,7 @@ septembre, en présence des artistes.
 - collagraphie avec [Clého](https://www.instagram.com/cleho_estampe/) : jeudis 5/06, 19/06
 {{< endsection >}}
 
-{{< startsection >}}
+{{< startsection green-background >}}
 ### Cours de 19 h à 22 h au Pôle jeunesse, 5 rue de la gare, à Quéven.
 
 ### Tarif : 400€ l'année ou 150€ le trimestre + 10€ d'adhésion annuelle à l'association

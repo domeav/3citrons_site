@@ -16,11 +16,50 @@ ul {
     list-style: square inside;
 }
 
-h3 {
+h2, h3 {
     margin-top: 1em;
 }
 
 .logo img {
     height: 80px;
     margin-right: 20px;
+}
+
+.yellow-background, .hero {
+    background-color: yellow;
+}
+
+.hero {
+    text-align: center;
+    font-size: 1.7em;
+}
+
+.blue-background, .blue-background a, .blue-background h2, .blue-background strong {
+    background-color: #3e8ed0;
+    color: white;
+}
+
+.pink-background, .pink-background a, .pink-background h2, .pink-background strong {
+    background-color: #fa6489;
+    color: white;
+}
+
+.green-background, .green-background a, .green-background h3, .green-background strong {
+    background-color: #48c78e;
+    color: white;
+}
+
+
+.navbar, .navbar-menu {
+    background-color: inherit;
+    box-shadow: none;
+    font-size: 1.3em;
+}
+
+a.navbar-item:hover {
+    --bulma-navbar-item-background-a: 0;
+}
+
+body {
+    font-size: 1.1em;
 }

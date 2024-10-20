@@ -18,6 +18,8 @@ Renders a menu for the given menu ID.
       <img src="{{ $image.Permalink }}"/>
     </a>
     <h1 class="navbar-item title">{{ site.Title }}</h1>
+  </div>
+  <div class="navbar-menu is-active has-text-centered">
     <div class="navbar-start">
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
     </div>

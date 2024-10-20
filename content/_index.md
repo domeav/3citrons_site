@@ -2,7 +2,7 @@
 title = "L'atelier"
 +++
 
-{{< startsection >}}
+{{< startsection hero >}}
 L'atelier des 3 citrons est un {{< ionicon construct >}} [atelier de
 gravure associatif](#infos-pratiques) et un {{< ionicon people >}} collectif d'artistes
 graveurs.
@@ -11,11 +11,10 @@ Le but ? [Graver ensemble](#on-va-tous-graver) — parce qu'à plusieurs on grav
 échanger et [transmettre](#transmettre) la **diversité des techniques** dans la joie et la
 bonne humeur !
 
-![](./latelier/cuivre_eauforte_pointes.jpg)
-
 {{< endsection >}}
 
 {{< startsection >}}
+![](./latelier/cuivre_eauforte_pointes.jpg)
 ## On va tous graver !
 
 Les graveurs expérimentés sont les bienvenus à l’atelier des 3 citrons
@@ -33,10 +32,10 @@ chimie pour l’eau-forte sur cuivre (vernis, colophane pour les
 aquatintes, perchlorure de fer pour les morsures) et une {{< ionicon flame >}} table
 d’encrage chauffante.
 
-![](./latelier/encrage_lino3.jpg)
 {{< endsection >}}
 
-{{< startsection >}}
+{{< startsection blue-background >}}
+![](./latelier/encrage_lino3.jpg)
 ## Transmettre
 
  Les artistes du {{< ionicon people >}} collectif proposent [des
@@ -50,12 +49,12 @@ d’encrage chauffante.
 
 L’atelier des 3 citrons participe régulièrement à des événements pour
 faire découvrir la gravure et les œuvres des artistes du collectif :
-expositions, festivals, rencontres...
+{{< ionicon easel >}}expositions, festivals, rencontres...
 
-![](./latelier/grattage.jpg)
 {{< endsection >}}
 
 {{< startsection >}}
+![](./latelier/grattage.jpg)
 ## Infos pratiques
 
 Contactez-nous par [{{< ionicon mail >}}](mailto:atelier@3citrons.art) ou sur
