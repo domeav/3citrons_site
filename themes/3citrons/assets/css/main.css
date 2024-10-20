@@ -11,3 +11,16 @@ ion-icon {
 a {
   text-decoration: underline !important;
 }
+
+ul {
+    list-style: square inside;
+}
+
+h3 {
+    margin-top: 1em;
+}
+
+.logo img {
+    height: 80px;
+    margin-right: 20px;
+}
