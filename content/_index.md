@@ -3,11 +3,12 @@ title = "L'atelier"
 +++
 # coucou, c'est *l'atelier des 3 citrons*
 
-L'atelier des 3 citrons est un {{< ionicon construct >}} atelier de gravure associatif
-et un {{< ionicon people >}} collectif d'artistes graveurs. 
+L'atelier des 3 citrons est un {{< ionicon construct >}} [atelier de
+gravure associatif](#infos-pratiques) et un {{< ionicon people >}} collectif d'artistes
+graveurs.
 
 Le but ? [Graver ensemble](#on-va-tous-graver) — parce qu'à plusieurs on grave plus loin ;
-échanger et [transmettre](#transmettre) la diversité des techniques dans la joie et la
+échanger et [transmettre](#transmettre) la **diversité des techniques** dans la joie et la
 bonne humeur !
 
 ![](./latelier/cuivre_eauforte_pointes.jpg)
@@ -50,19 +51,19 @@ expositions, festivals, rencontres...
 
 ## Infos pratiques
 
-Contactez-nous par [mail](mailto:atelier@3citrons.art) ou sur
-[instagram](https://www.instagram.com/atelier_3_citrons/) à toutes
+Contactez-nous par [{{< ionicon mail >}}](mailto:atelier@3citrons.art) ou sur
+[{{< ionicon logo-instagram >}}](https://www.instagram.com/atelier_3_citrons/) à toutes
 fins utiles !
 
-[L’adhésion annuelle à
+{{< ionicon warning >}} [L’adhésion annuelle à
 l’association](https://www.helloasso.com/associations/l-atelier-des-3-citrons/adhesions/adhesion)
 (10 euros) est obligatoire pour participer aux activités proposées à
 l’atelier.
 
 L’atelier des 3 citrons est installé à Quéven, dans le Morbihan, près de Lorient.
 
-- En voiture : N165, sortie Quéven, stationnement possible dans la rue. 
-- En bus : T4 en provenance de Lorient, arrêt Bel Air (ou Ville de Toulouse en marchant un peu).
-- À vélo : depuis Lorient, Plœmeur et Pont Scorff, itinéraires sur voies cyclables dédiées, abri vélo disponible sur place.
+- {{< ionicon car >}} En voiture : N165, sortie Quéven, stationnement possible dans la rue. 
+- {{< ionicon bus >}} En bus : T4 en provenance de Lorient, arrêt Bel Air (ou Ville de Toulouse en marchant un peu).
+- {{< ionicon bicycle >}} À vélo : depuis Lorient, Plœmeur et Pont Scorff, itinéraires sur voies cyclables dédiées, abri vélo disponible sur place.
 
 
