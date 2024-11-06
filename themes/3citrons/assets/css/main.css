@@ -21,8 +21,10 @@ h2, h3 {
 }
 
 .logo img {
-    height: 80px;
-    margin-right: 20px;
+    height: 50px;
+    width: 50px;
+    max-width: 50px;
+    margin-right: 2px;
 }
 
 .yellow-background, .hero, .hero a {
@@ -62,7 +64,7 @@ a.navbar-item:hover {
 }
 
 body {
-    font-size: 1.1em;
+    font-size: 1em;
 }
 
 body a {
@@ -70,7 +72,7 @@ body a {
 }
 
 section {
-    margin-top: -0.4em;
+    margin-top: -0.5em;
     overflow: hidden;
 }
 
@@ -93,8 +95,8 @@ figcaption {
 }
 
 figure img {
-    height: 20em;
-    width: auto;
+    height: auto;
+    width: 400px;
     margin-right: 2em;
 }
 
