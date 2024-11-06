@@ -12,8 +12,8 @@ bonne humeur !
 
 {{< endsection >}}
 
+![](./latelier/cuivre_eauforte_pointes.jpg  "banner")
 {{< startsection >}}
-![](./latelier/cuivre_eauforte_pointes.jpg)
 ## On va tous graver !
 
 Les graveurs expérimentés sont les bienvenus à l’atelier des 3 citrons
@@ -33,8 +33,8 @@ d’encrage chauffante.
 
 {{< endsection >}}
 
+![](./latelier/encrage_lino3.jpg  "banner")
 {{< startsection blue-background >}}
-![](./latelier/encrage_lino3.jpg)
 ## Transmettre
 
  Les artistes du {{< ionicon people >}} collectif proposent [des
@@ -52,8 +52,8 @@ faire découvrir la gravure et les œuvres des artistes du collectif :
 
 {{< endsection >}}
 
+![](./latelier/grattage.jpg  "banner")
 {{< startsection >}}
-![](./latelier/grattage.jpg)
 ## Infos pratiques
 
 Contactez-nous par [{{< ionicon mail >}}](mailto:atelier@3citrons.art) ou sur

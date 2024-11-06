@@ -23,8 +23,8 @@ septembre, en présence des artistes.
 
 {{< endsection >}}
  
+![encrage](./cours.jpg "banner")
 {{< startsection >}}
-![encrage](./cours.jpg)
 ## Demandez le programme !
 
 

@@ -17,7 +17,7 @@ ul {
 }
 
 h2, h3 {
-    margin-top: 1em;
+    margin-top: 0.5em;
 }
 
 .logo img {
@@ -32,7 +32,7 @@ h2, h3 {
 
 .hero {
     text-align: center;
-    font-size: 1.7em;
+    font-size: 1.5em;
 }
 
 .blue-background, .blue-background a, .blue-background h2, .blue-background strong {
@@ -69,6 +69,19 @@ body a {
     color: #404654;
 }
 
+section {
+    margin-top: -0.4em;
+}
+
 section p {
     margin-bottom: 1em;
+}
+
+img {
+    margin-bottom: 0px;
+}
+
+.banner {
+    height: auto;
+    width: 100%;
 }
