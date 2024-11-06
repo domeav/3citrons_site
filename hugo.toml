@@ -13,6 +13,6 @@ theme = '3citrons'
     pageRef = '/cours'
     weight = 20
   [[menus.main]]
-    name = 'Actus'
-    pageRef = '/actus'
+    name = 'Qui ?'
+    pageRef = '/qui'
     weight = 30

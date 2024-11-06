@@ -35,17 +35,17 @@ h2, h3 {
     font-size: 1.5em;
 }
 
-.blue-background, .blue-background a, .blue-background h2, .blue-background strong {
+.blue-background, .blue-background a, .blue-background h2, .blue-background h3, .blue-background strong {
     background-color: #3e8ed0;
     color: white;
 }
 
-.pink-background, .pink-background a, .pink-background h2, .pink-background strong {
+.pink-background, .pink-background a, .pink-background h2, .pink-background h3, .pink-background strong {
     background-color: #fa6489;
     color: white;
 }
 
-.green-background, .green-background a, .green-background h3, .green-background strong {
+.green-background, .green-background a, .green-background h2, .green-background h3, .green-background strong {
     background-color: #48c78e;
     color: white;
 }
@@ -71,6 +71,7 @@ body a {
 
 section {
     margin-top: -0.4em;
+    overflow: hidden;
 }
 
 section p {
@@ -84,4 +85,19 @@ img {
 .banner {
     height: auto;
     width: 100%;
+}
+
+figcaption {
+    font-size: 0.8em;
+    opacity: 50%;
+}
+
+figure img {
+    height: 20em;
+    width: auto;
+    margin-right: 2em;
+}
+
+figure {
+    float: left;
 }
