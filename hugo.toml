@@ -9,7 +9,7 @@ theme = '3citrons'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Cours'
+    name = 'Cours 2024/2025'
     pageRef = '/cours'
     weight = 20
   [[menus.main]]

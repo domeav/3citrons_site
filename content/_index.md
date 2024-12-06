@@ -3,10 +3,10 @@ title = "L'atelier"
 +++
 {{< startsection hero >}}
 L'atelier des 3 citrons est un {{< ionicon construct >}} [atelier de
-gravure associatif](#infos-pratiques) et un {{< ionicon people >}} collectif d'artistes
-graveurs.
+gravure associatif](#infos-pratiques) et un {{< ionicon people >}} [collectif d'artistes
+graveurs](/qui).
 
-Le but ? [Graver ensemble](#on-va-tous-graver) — parce qu'à plusieurs on grave plus loin ;
+Le but ? [Graver ensemble](#on-va-tous-graver-) — parce qu'à plusieurs on grave plus loin ;
 échanger et [transmettre](#transmettre) la **diversité des techniques** dans la joie et la
 bonne humeur !
 

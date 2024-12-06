@@ -118,18 +118,26 @@ d’un journal intime dessiné.
 
 {{< figure src="./etienne.png" >}}
 
-Formé à la photographie argentique à Cognac puis à la gravure à
-Lorient, je me suis intéressé au fil de mes recherches aux procédés
-alternatifs et aléatoires pour créer de nouvelles images.  Je fusionne
-techniques et expérimentations pour composer mes estampes.  J’aime
-quand se dégage du papier le grain et le toucher. Dans une approche de
-la matière, je joue avec les images pour transformer la réalité en une
-fiction hallucinée et poétique.
+Etienne pratique la photographie alternative et argentique depuis plus
+de quinze ans, il s’installe dans le pays de Lorient en 2017 et y
+découvre la gravure.
 
-Je fais partie du collectif d’artistes
+Au fil de ses recherches il s’intéresse à différents procédés et
+s’interroge sur les pratiques anténumérique. Son travail s’articule
+autour de différentes expérimentations, de par la fusion des matières
+et des techniques. Son processus créatif est expérimental et laisse
+une grande place à la matière pour mêler réalité et fiction poétique.
+
+En gravure, Etienne travaille principalement la sérigraphie, l’eau
+forte ainsi que la photogravure. Dans sa dernière série « Architecture
+des Ruines », la sérigraphie sur cuivre puis l’eau de mer - additionnée
+de sulfate de cuivre - permet de creuser le métal rougeâtre pour créer
+des matrices imparfaites. Les estampes qui en résultent à l’impression
+sont le reflet d’un monde architectural imaginaire où émergent des
+rites oubliés.
+
+Etienne fait partie du collectif d’artistes
 [BAAM](https://baam-lorient.co/) à Lorient.
-
-
 
 {{< endsection >}}
 
