@@ -142,6 +142,32 @@ Etienne fait partie du collectif d’artistes
 {{< endsection >}}
 
 {{< startsection >}}
+## [Léo Paul](https://www.instagram.com/leopaulcreations/)
+
+{{< figure src="./LeoPaul.webp" >}}
+
+Je suis artiste-graveur, et après un passage par les cours pour
+adultes de la ville de Paris et l’atelier Point d’encrage de Gentilly,
+je me suis installé à Lorient, où je poursuis la gravure avec
+l’atelier des 3 Citrons.
+
+Je travaille l’estampe surtout par des techniques de taille directe :
+le burin sur cuivre, zinc, ou même rhenalon ; la pointe sèche sur
+Tetrapack, la linogravure ou la gravure sur bois. J’élabore mes images
+à partir de mes propres dessins, d’imagination ou d’après
+nature. Celles-ci entremêlent personnages, matières et paysages. Le
+pas de côté du fantastique est aussi un élément récurrent de mon
+imaginaire teinté de rêves sombres.
+
+Également illustrateur, j’ai publié en 2023 un premier conte mêlant
+dessin et estampe, La Forêt Vagabonde, aux éditions Patayo.  Je suis
+membre de [BAAM](https://baam-lorient.co/) et de la [Fondation
+Taylor](https://www.taylor.fr/).
+
+{{< endsection >}}
+
+
+{{< startsection  blue-background >}}
 ## L'association
 
 Le bureau de l'association est fièrement porté par Lucile, Caro et Dom, qui pratiquent également la pointe sèche et la gouge à leurs heures perdues.
