@@ -9,12 +9,12 @@ En complément des [cours
 ponctuels](https://www.helloasso.com/associations/l-atelier-des-3-citrons/boutiques/ateliers-et-cours-de-gravure),
 les artistes de l'atelier des 3 citrons proposent pour l'année
 2025/2026 un cours de gravure au trimestre multi- techniques **un
-mardi et un jeudi sur deux** au **Pôle jeunesse de Quéven** à
+mardi et un mercredi sur deux** au **Pôle jeunesse de Quéven** à
 destination des adolescents et adultes.
 
 
 Au programme : gravure à la pointe sèche sur tetrapak et rhenalon, burin,
-linogravure, collagraphie : un parcours varié pour s’initier à la magie de 
+linogravure, eau-forte : un parcours varié pour s’initier à la magie de 
 l’image imprimée à partir d’une matrice. Chaque artiste vous fera découvrir
 les spécificités d’une technique et vous invitera à entrer dans son processus 
 créatif.
@@ -29,7 +29,7 @@ septembre, en présence des artistes.
 {{< startsection >}}
 ## Demandez le programme !
 
-Le programme détaillé est en cours de rédaction !
+Le programme avec toutes les dates est téléchargeable [ici](./COURS2025.pdf) !
 
 {{< startsection green-background >}}
 ### Cours de 19 h à 22 h au Pôle jeunesse, 5 rue de la gare, à Quéven.
