@@ -1,0 +1,39 @@
+# Politique de cache pour 3citrons.art
+#
+# Ce fichier est copié tel quel dans public/ par Hugo, puis déployé par
+# deploy.sh. Il DOIT rester ici : deploy.sh utilise « rsync --delete », donc
+# un .htaccess posé directement sur le serveur serait supprimé au déploiement
+# suivant.
+#
+# Les blocs sont appliqués dans l'ordre : quand plusieurs FilesMatch
+# correspondent, c'est le dernier qui gagne. Le bloc « assets versionnés »
+# est donc placé en dernier pour surclasser la règle générique.
+
+<IfModule mod_headers.c>
+
+  # --- Pages HTML et flux XML : toujours revalider -------------------------
+  # Sans en-tête explicite, les navigateurs appliquent une fraîcheur
+  # « heuristique » (~10 % du temps écoulé depuis Last-Modified). Une page peu
+  # modifiée est donc gardée en cache plusieurs jours ou semaines, et les
+  # visiteurs continuent de voir l'ancienne version après une mise à jour.
+  # no-cache = on peut garder une copie, mais il faut la revalider à chaque
+  # fois (Apache renvoie déjà ETag et Last-Modified, donc c'est un 304 léger).
+  <FilesMatch "\.(html|xml)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+
+  # --- Images, favicons, CSS/JS non versionnés : cache court --------------
+  # Ces fichiers gardent le même nom quand on les remplace (bulma.min.css,
+  # les photos des pages) : une semaine, puis revalidation.
+  <FilesMatch "\.(css|js|jpe?g|png|webp|gif|svg|ico|woff2?|ttf|eot|pdf)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+
+  # --- Assets versionnés par Hugo : cache long ----------------------------
+  # main.min.<hash>.css et main.<hash>.js : le nom change à chaque
+  # modification du contenu, donc on peut les cacher indéfiniment.
+  <FilesMatch "\.[0-9a-f]{64}\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+</IfModule>
