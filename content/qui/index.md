@@ -4,7 +4,7 @@ title = "Qui ?"
 {{< startsection hero >}}
 ## Attention ! Voilà les citrons !
 
-L'atelier des 3 citrons, c'est un collectif de graveurs et une association loi 1901.
+L'atelier des 3 citrons réunit autour de sa presse et de l'apéro, une joyeuse bande d'artistes graveureuses !
 {{< endsection >}}
 
 
@@ -170,5 +170,5 @@ Taylor](https://www.taylor.fr/).
 {{< startsection  blue-background >}}
 ## L'association
 
-Le bureau de l'association est fièrement porté par Lucile, Caro et Dom, qui pratiquent également la pointe sèche et la gouge à leurs heures perdues.
+Le bureau de l'association est fièrement porté par Marion, Caro et Dom, qui pratiquent également la pointe sèche et la gouge à leurs heures perdues.
 {{< endsection >}}

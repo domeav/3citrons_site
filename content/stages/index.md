@@ -9,12 +9,18 @@ title = "Cours 2026/2027"
 Nouveauté de l'année, 5 stages "week-ends" pour découvrir ou approfondir la pratique d'une des techniques de gravure pendant deux jours.
 
 ### 3 et 4 octobre : linogravure · impression textile avec Sarah
+Chaque participant•e sera accompagné•é dans la création d'une ou plusieurs images en linogravure, afin de les imprimer sur les textiles de son choix.  
+Tout le matériel sera fourni (encre, lino, gouge, papier) sauf le textile que vous devrez choisir et apporter avec vous. Vous pourrez en prendre plusieurs, mais préférez du coton ou autre matière naturelle pour une meilleure tenue de l'encre.
+
+Informations et inscriptions : [sarahblt9@gmail.com](mailto:sarahblt9@gmail.com)
 
 ![textile](./textile.jpeg "banner")
 
 ### 14 et 15 novembre : eau-forte avec Clotilde 
 Comme dirait notre élève-présidente préférée « Viens, ça va être super parce qu'on va tous graver, bordel ! ». Et que va-t-on graver cette fois-ci ?  
 Ce stage sera l'occasion de pratiquer la gravure à l'eau-forte, c'est à dire par la morsure d'une plaque de suivre dans un produit chimique qui creuse l'image. Et c'est beaucoup plus clair quand on le fait que quand on en parle !
+
+Informations et inscriptions : [atelier@3citrons.art](mailto:atelier@3citrons.art)
 
 ![Eau forte](./eauforte.jpg "banner")
 
@@ -24,17 +30,23 @@ Cette façon de graver permet, avec la simple utilisation d'un outil, de traits 
 Nous prendrons ce temps presque méditatif pour appréhender sereinement une technique exigeante mais accessible à toutes et tous. Je vais vous donner les clefs pour comprendre la prise en main de l'outil, son entretien avec la partie essentielle de l'affûtage et vous accompagnerai dans la création d'une estampe qui vous ressemble.  
 Après cela, rien ne vous empêchera de l'adopter pour votre propre pratique artistique.
 
+Informations et inscriptions : [crealeopaul@gmail.com](mailto:crealeopaul@gmail.com)
+
 ![burin](./burin.jpg "banner")
 
 ### 3 et 4 avril : minis stages adulte-enfant(s) avec Clotilde 
 On va tous graver, ça commence tout petit déjà et ça dure longtemps… et même on peut le faire tous ensemble !  
 Alors de 7 à 777 ans, venez passer ensemble quelques heures les mains dans l'encre avec Clotilde pour imprimer vos premières (ou pas premières) images gravées à la pointe sèche sur brique alimentaire.  Papas-mamans, tatas-tontons, parrains-marraines, papis-mamies, à vous de jouer !
 
+Informations et inscriptions : [atelier@3citrons.art](mailto:atelier@3citrons.art)
+
 ![enfant](./enfant.jpg "banner")
 
 ### 29 et 30 mai : eau-forte au vernis mou avec Léo
 Cette méthode de gravure en de taille douce permet de réaliser des images à la manière du dessin : le geste est celui du crayonné, les traits légers se superposent sur la plaque de cuivre et construisent des images tout en douceur, comme un pastel ou une étude à la mine de plomb.  
 Nous allons, ensemble et dans la bienveillance, prendre ce temps d'expérimentation, entre dessin, chimie et impressions sur la presse, afin de mieux comprendre une façon méconnue de graver, et de révéler les images qui nous animent. 
+
+Informations et inscriptions : [crealeopaul@gmail.com](mailto:crealeopaul@gmail.com)
 
 ![Vernis mou](./vernismou.jpeg "banner")
 
